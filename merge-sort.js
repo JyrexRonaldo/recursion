@@ -25,8 +25,8 @@ function merge(leftArray, rightArray) {
 
 console.log(merge([2, 8, 15, 18], [5, 9, 12, 17, 19, 25, 30]));
 
-let textArray1 = [3, 2, 1, 13, 8, 5, 0, 1];
-let textArray2 = [105, 79, 100, 110];
+let testArray1 = [3, 2, 1, 13, 8, 5, 0, 1];
+let testArray2 = [105, 79, 100, 110];
 
 function mergeSort(array) {
   if (array.length > 1) {
